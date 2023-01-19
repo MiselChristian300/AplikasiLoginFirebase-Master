@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "727770725842",
+    "project_id": "fir-loginregister-1165f",
+    "storage_bucket": "fir-loginregister-1165f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:727770725842:android:cee2f188cf7916931b1c0b",
+        "android_client_info": {
+          "package_name": "com.example.myapplicationcofiers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "727770725842-uvg2tu26qe1mc1h6rrmqjj9t92d3u59f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBikJgmHlC7H4j1pTO5GnSo3ZKl3E1W6Jw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "727770725842-uvg2tu26qe1mc1h6rrmqjj9t92d3u59f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:727770725842:android:747622e0a2b2f0411b1c0b",
+        "android_client_info": {
+          "package_name": "com.example.tugasakhirappscoffiers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "727770725842-uvg2tu26qe1mc1h6rrmqjj9t92d3u59f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBikJgmHlC7H4j1pTO5GnSo3ZKl3E1W6Jw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "727770725842-uvg2tu26qe1mc1h6rrmqjj9t92d3u59f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
